@@ -1,0 +1,11 @@
+# Circuit / Pin Reference
+
+ESP8266 NodeMCU:
+- MQ-2 AO -> A0
+- LED control -> D3 (GPIO0)
+- Buzzer control -> D2 (GPIO4)
+- Relay control -> D1 (GPIO5)
+
+The pin assignments above are taken from the Arduino IDE code shown in the supplied project photograph.
+
+Note: The exact relay logic depends on the relay module. The project code assumes HIGH = normal/ON state and LOW = shut-off state.
