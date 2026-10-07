@@ -3,6 +3,8 @@
 ## Project
 Gas Detection, Alert & Automatic Shut-Off System using ESP8266.
 
+![Project Setup](project_setup.jpg)
+
 ## Hardware Used
 - NodeMCU 1.0 (ESP-12E Module) / ESP8266
 - MQ-2 gas sensor
